@@ -34,7 +34,7 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"> 
-  <img src="https://i.imgur.com/NtuYy0F.png" height="40" alt="Zustand logo">
+  <img src="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/main/assets/zustand-logo.svg" height="40" alt="Zustand logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="Vitest logo"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS logo"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"> 
