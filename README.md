@@ -52,11 +52,10 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
 
 ## GitHub Contribution Snake Animation
 
-## GitHub Contribution Snake Animation
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/output/github-contribution-grid-snake.svg">
 </picture>
+
 
