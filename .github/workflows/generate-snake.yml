@@ -9,11 +9,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: crazy-max/ghaction-github-contribution-grid-snake@v2
         with:
-          github_user_name: Purple-Code-sh
-          outputs: |
-            dist/github-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: dist/github-snake.svg
+
+      - name: Push the generated snake
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: dist/github-snake.svg
