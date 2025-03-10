@@ -39,6 +39,7 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge">
   &nbsp;&nbsp;&nbsp;
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&color=black">
@@ -51,6 +52,7 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
   <img src="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/main/assets/zustand-logo.svg" height="40" alt="Zustand logo">
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge">
   &nbsp;&nbsp;&nbsp;
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="Vitest logo">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge">
@@ -63,6 +65,7 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge">
   &nbsp;&nbsp;&nbsp;
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge">
@@ -75,6 +78,7 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge">
   &nbsp;&nbsp;&nbsp;
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge">
@@ -87,6 +91,7 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge">
   &nbsp;&nbsp;&nbsp;
+  <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL logo">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge">
