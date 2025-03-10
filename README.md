@@ -49,13 +49,12 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack logo"> 
 </p>
 
-
 ## GitHub Contribution Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Purple-Code-sh/Purple-Code-sh/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="github-snake.svg" />
 </picture>
 
 
