@@ -30,58 +30,57 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
 <p>
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Node.js-274E13?style=for-the-badge&logo=node.js&logoColor=white">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Zustand-CE7E00?style=for-the-badge&logo=zustand&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Python-F2C410?style=for-the-badge&logo=python&logoColor=black">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/C++-E06666?style=for-the-badge&logo=cplusplus&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/MySQL-8E7CC3?style=for-the-badge&logo=mysql&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
-  &nbsp;&nbsp;
 </p>
 
 
