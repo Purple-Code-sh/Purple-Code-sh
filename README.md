@@ -5,7 +5,7 @@ My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
 ## About me
 
 ✨ Crafting unique apps since 2019  
-📚 I'm currently learning **Next.js & Python for AI**
+📚 I'm currently learning more about **Python for AI & Java with Spring Boot**
 
 ## Connect with me
 
