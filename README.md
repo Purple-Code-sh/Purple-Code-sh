@@ -1,7 +1,7 @@
 # Hey 👋 What's up?
 
-<p>
-  <a href="https://shmin-ib.com/">Link to Portfolio</a>
+<p style="font-weight: bold;">
+  <a href="https://shmin-ib.com/">Link to Portfolio &rarr;</a>
 </p>
 My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
 
