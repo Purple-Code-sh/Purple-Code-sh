@@ -1,5 +1,8 @@
 # Hey 👋 What's up?
 
+<p>
+  <a href="https://shmin-ib.com/">Link to Portfolio</a>
+</p>
 My name is **Shmin**, and I'm a **Frontend Developer** from Mexico City.
 
 ## About me
